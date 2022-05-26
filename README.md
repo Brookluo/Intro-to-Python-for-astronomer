@@ -53,3 +53,8 @@ This repository is written for 2022 REU students at the University of Wyoming. A
     - Array transform, reshape
 
 Disclaimer: this repository used and modified contents from the [Complete python 3 Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp). 
+
+Further reading:
+More in-depth explanation: https://python.swaroopch.com/
+
+Python cheatsheet: https://gto76.github.io/python-cheatsheet/
