@@ -38,3 +38,10 @@ Jupyter notebook also supports markdown syntax. If we need to change a cell to m
 To save current jupyter notebook, you can hit `ctrl+s`. The jupyter notebook files have suffix `.ipynb` (because Jupyter is based on IPython Notebook). 
 
 If you are interested in more cool shortcuts, `Help` tab on the control bar will give you more directions to explore. 
+
+## Switching Kernels
+
+Usually, we might want to work with different versions of python or environment because of different sets of packages. We will talk about managing environment and packages further tomorrow. 
+As for now, you can treat Jupyter kernel as a python interpreter, which takes the code in a cell and then execute it. There are different versions of python interpreters, so are the Jupyter kernels. To switch a kernel, hit `Kernel` in the control bar. You can find more information about managing the kernel here: https://docs.jupyter.org/en/latest/install/kernels.html.
+
+Managing kernels sometimes can be quite tedious and painful, so my suggestion is to stick with minimal number of kernels. For each environment, install only one kernel. 

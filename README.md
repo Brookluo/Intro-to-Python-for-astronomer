@@ -2,9 +2,19 @@
 
 This repository is written for 2022 REU students at the University of Wyoming. A tentative schedule shows below:
 
-1. Basic python background introduction & Python REPL
-2. Jupyter notebook introduction (Most of the material below is presented in Jupyter)
-3. Python Statements
+1. Basic python background introduction & Python REPL [link](./Intro.md)
+2. Jupyter notebook introduction (Most of the material below is presented in Jupyter) [link](./jupyter.md)
+3. Basic Python data structures [link](./00-Python%20Object%20and%20Data%20Structure%20Basics/)
+    - Number (integer, float, boolean, and complex)
+    - Variable
+    - String (format, f-string)
+    - List
+    - Dictionary
+    - Tuple
+    - Set
+    - File
+    - Object (in details later)
+4. Python Statements [link](./02-Python%20Statements/)
     - What a statement is
     - Assignment statement
     - Conditional statement
@@ -19,17 +29,7 @@ This repository is written for 2022 REU students at the University of Wyoming. A
         - Try
         - Except
         - finally
-4. Basic Python data structures
-    - Number (integer, float, boolean, and complex)
-    - Variable
-    - String (format, f-string)
-    - List
-    - Dictionary
-    - Tuple
-    - Set
-    - File
-    - Object (in details later)
-5. Functions
+5. Functions [link](./03-Methods%20and%20Functions/)
     - Arguments
     - Return
     - Lambda function (day 1 ends here)
