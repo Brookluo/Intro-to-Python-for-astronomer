@@ -4,8 +4,9 @@ This repository is written for 2022 REU students at the University of Wyoming. A
 
 1. Basic python background introduction & Python REPL
 2. Jupyter notebook introduction (Most of the material below is presented in Jupyter)
-3. Control flow statements in Python
+3. Python Statements
     - What a statement is
+    - Assignment statement
     - Conditional statement
         - If – else if - else
         - Comparison operator (<, >, ==, !=, isinstance)
@@ -19,7 +20,7 @@ This repository is written for 2022 REU students at the University of Wyoming. A
         - Except
         - finally
 4. Basic Python data structures
-    - Number (integer, float, boolean)
+    - Number (integer, float, boolean, and complex)
     - Variable
     - String (format, f-string)
     - List
@@ -50,3 +51,5 @@ This repository is written for 2022 REU students at the University of Wyoming. A
     - Array indexing 
     - Array arithmetic (maybe broadcasting? Requires linear algebra knowledge)
     - Array transform, reshape
+
+Disclaimer: this repository used and modified contents from the [Complete python 3 Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp). 
